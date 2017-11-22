@@ -1,0 +1,10 @@
+﻿  Source.cpp
+c:\users\gameuser\desktop\online-gaming\del\del\source.cpp(597): warning C4018: '<': signed/unsigned mismatch
+c:\users\gameuser\desktop\online-gaming\del\del\source.cpp(618): warning C4018: '<': signed/unsigned mismatch
+c:\users\gameuser\desktop\online-gaming\del\del\source.cpp(628): warning C4018: '<': signed/unsigned mismatch
+c:\users\gameuser\desktop\online-gaming\del\del\source.cpp(645): warning C4018: '<': signed/unsigned mismatch
+c:\users\gameuser\desktop\online-gaming\del\del\source.cpp(658): warning C4018: '<': signed/unsigned mismatch
+c:\users\gameuser\desktop\online-gaming\del\del\source.cpp(662): warning C4018: '<': signed/unsigned mismatch
+c:\users\gameuser\desktop\online-gaming\del\del\source.cpp(673): warning C4018: '<': signed/unsigned mismatch
+  Del.vcxproj -> C:\Users\gameuser\Desktop\Online-Gaming\Del\Debug\Del.exe
+  Del.vcxproj -> C:\Users\gameuser\Desktop\Online-Gaming\Del\Debug\Del.pdb (Partial PDB)
